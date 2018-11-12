@@ -5,10 +5,10 @@
 		<title>Ejercicio 1</title>
 		<style>
 		.small{
-			font-size: 1.2 em
+			font-size: 1.2 px
 		}
 		.mini{
-			font-size: 1.2 em
+			font-size: 1.2 px
 		}
 	</style>
 </head>
